@@ -67,4 +67,3 @@ if (($media >= 7 && $presenca >= 75) || $nome == "Enzo Enrico") {
 // Caso o aluno tenha o nome "Enzo Enrico", ele será aprovado independente da média e presença. Crie uma variavel $nome.
 
 ?>
-
